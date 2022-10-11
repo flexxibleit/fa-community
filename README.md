@@ -30,6 +30,10 @@ Use our [issues page](https://github.com/flexxibleit/fa-community/issues) to rep
 
 We have created a [public roadmap](https://github.com/orgs/flexxibleit/projects/1) to show you what we are working on and what we are planning to work on in the future.
 
+## Language
+
+The FlexxAnalyzer team is composed by people from different countries and cultures. We want to make sure that everyone feels welcome and comfortable in this community. We will do our best to answer your questions in your language, but we may not always be able to do so. We will try to answer your questions in English if we can't answer them in your language and we encourage you to use English in this community if you are able.
+
 ## Disclaimer
 
 This community is provided as a courtesy by Flexxible IT. Even as our managers, developers, and all product people strive to provide the best possible support, we cannot guarantee that we will be able to answer all questions or solve all problems. Please, if you have an urgent issue, contact us using our usual support channels.
